@@ -1,3 +1,5 @@
 123sercn
 
 git github last try
+
+git github 7dk var dersin bitmesine
